@@ -2,7 +2,7 @@ source 'http://ruby.taobao.org'
 
 ruby '2.1.2'
 
-
+gem 'font-awesome-rails'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.1.2'
 # Use mysql as the database for Active Record
